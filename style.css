@@ -1,0 +1,16 @@
+.topnav{
+    background-color: black;
+    padding: 20px;
+    font-size: 20px;
+}
+.topnav a{
+    text-decoration: none;
+    color: azure;
+}
+.topnav a:hover{
+    color: burlywood;
+}
+.topnav a.class1{
+    background-color: burlywood;
+    color: black;
+}
